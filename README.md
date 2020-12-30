@@ -1,0 +1,1 @@
+# opencore-i7-9700k-gigabytez390-efi
