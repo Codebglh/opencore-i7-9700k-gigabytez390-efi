@@ -1,3 +1,3 @@
-# opencore-i7-9700k-gigabytez390-efi
+# opencore-i7-9700k-gigabytez390-efi -rx5500xt
 #### 1，先把主板bios升级到最新级在应用本efi
 #### 2，有问题请发邮件到 bglhcode@icloud.com
